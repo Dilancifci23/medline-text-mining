@@ -34,7 +34,7 @@ python3 main.py <medline_articles file>
 ## Authors
 
 - @kledisalla (https://github.com/kledisalla)
-- @Dilancifci (https://github.com/Dilancifci)
+- @Dilancifci (https://github.com/Dilancifci23)
 
 
 ## Appendix
